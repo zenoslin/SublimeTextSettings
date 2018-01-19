@@ -1,0 +1,25 @@
+{
+	"color_scheme": "Packages/Colorsublime - Themes/Adventure_Time.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+    // 开启选中范围内搜索
+    "auto_find_in_selection": true,
+    // 侧边栏文件夹显示加粗，区别于文件
+    "bold_folder_labels": true,
+    // 使用 unix 风格的换行符
+    "default_line_ending": "unix",
+    // 覆盖操作系统设置的DPI，否则标签上的中文显示为方块
+    "dpi_scale": 1.0,
+    // 右侧代码预览时给所在区域加上边框
+    "draw_minimap_border": true,
+    // 保证在文件保存时，在结尾插入一个换行符。
+    // 这样 git 提交时不会生产额外的 diff
+    "ensure_newline_at_eof_on_save": true,
+    // 默认显示行号右侧的代码段闭合展开三角号
+    "fade_fold_buttons": false,
+    // 自动移除行尾多余空格
+    "trim_trailing_white_space_on_save": true,
+    "trim_automatic_white_space": true,
+}

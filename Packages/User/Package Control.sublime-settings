@@ -1,0 +1,15 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Colorsublime",
+		"ConvertToUTF8",
+		"FileHeader",
+		"Package Control",
+		"PlainTasks",
+		"SublimeCodeIntel"
+	]
+}
